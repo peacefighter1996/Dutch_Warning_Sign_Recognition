@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Nederlands_verkeersbord_J1"
+   width="216"
+   height="185"
+   viewBox="0 0 216 185"
+   version="1.1"
+   sodipodi:docname="Nederlands_verkeersbord_J1_Slecht_wegdek.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="942"
+     inkscape:window-height="480"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="0.78666667"
+     inkscape:cx="175"
+     inkscape:cy="150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Nederlands_verkeersbord_J1" />
+  <path
+     id="rode_driehoek"
+     d="m -56.372882,225.67796 c 0,0 16.820331,0 0,0 -14.916539,0 -7.219509,-16.14695 -7.219509,-16.14695 L 97.533913,-66.247534 c 0,0 -3.50615,6.11627 0,0 6.253317,-10.92774 14.404097,-10.44659 20.211937,-0.47299 l 161.0933,276.251534 c 0,0 7.70529,16.14695 -7.21203,16.14695 -16.82781,0 0,0 0,0 H -56.372882"
+     inkscape:connector-curvature="0"
+     style="fill:#c1121c" />
+  <path
+     id="witte_driehoek"
+     d="M 108.11012,-0.62403359 215.83564,185.25349 H -1.0756206 L 108.11012,-0.62403359"
+     inkscape:connector-curvature="0"
+     style="fill:#f7fbf5" />
+  <path
+     d="m 173.00179,145.91372 c -14.26418,0 -19.57666,-21.64203 -33.45424,-21.64203 -14.19987,0 -19.41592,21.64203 -33.55068,21.64203 -13.974027,0 -21.090027,-21.64203 -34.871172,-21.64203 -14.32847,0 -18.38557,21.64203 -31.58642,21.64203 h -3.89637 v 18.3012 H 177.31607 v -18.36639 l -4.31428,0.0652"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#2a2d2f" />
+</svg>

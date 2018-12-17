@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Nederlands_verkeersbord_J9"
+   width="216"
+   height="185"
+   viewBox="0 0 216 185"
+   version="1.1"
+   sodipodi:docname="Nederlands_verkeersbord_J11_Overweg_zonder_slagbomen.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="0.78666667"
+     inkscape:cx="175"
+     inkscape:cy="150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Nederlands_verkeersbord_J9" />
+  <path
+     id="rode_driehoek"
+     d="m -55.101695,225.67797 c 0,0 16.820331,0 0,0 -14.916539,0 -7.219509,-16.14695 -7.219509,-16.14695 L 98.805095,-66.247534 c 0,0 -3.50615,6.11627 0,0 6.253325,-10.92774 14.404105,-10.44659 20.211945,-0.47299 l 161.0933,276.251544 c 0,0 7.70529,16.14695 -7.21203,16.14695 -16.82781,0 0,0 0,0 H -55.101695"
+     inkscape:connector-curvature="0"
+     style="fill:#c1121c" />
+  <path
+     id="witte_driehoek"
+     d="M 109.38131,-0.6240339 217.10683,185.2535 H 0.19556608 L 109.38131,-0.6240339"
+     inkscape:connector-curvature="0"
+     style="fill:#f7fbf5" />
+  <g
+     id="zwart_symbool"
+     transform="translate(-66.101695,-74.322034)">
+    <path
+       d="m 140.47271,250.50781 c 4.56719,0 8.24933,-3.64836 8.24933,-8.16341 0,-4.48203 -3.68214,-8.12213 -8.24933,-8.12213 -4.53379,0 -8.21593,3.6401 -8.21593,8.12213 0,4.51505 3.68214,8.16341 8.21593,8.16341"
+       id="path4"
+       inkscape:connector-curvature="0"
+       style="fill:#2a2d2f" />
+    <path
+       d="m 159.9772,250.50781 c 4.5338,0 8.21593,-3.64836 8.21593,-8.16341 0,-4.48203 -3.68213,-8.12213 -8.21593,-8.12213 -4.56719,0 -8.24932,3.6401 -8.24932,8.12213 0,4.51505 3.68213,8.16341 8.24932,8.16341"
+       id="path6"
+       inkscape:connector-curvature="0"
+       style="fill:#2a2d2f" />
+    <path
+       d="m 179.4483,250.50781 c 4.53378,0 8.22428,-3.64836 8.22428,-8.16341 0,-4.48203 -3.6905,-8.12213 -8.22428,-8.12213 -4.56719,0 -8.21594,3.6401 -8.21594,8.12213 0,4.51505 3.64875,8.16341 8.21594,8.16341"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="fill:#2a2d2f" />
+    <path
+       d="m 198.91938,250.50781 c 4.5338,0 8.24934,-3.64836 8.24934,-8.16341 0,-4.48203 -3.71554,-8.12213 -8.24934,-8.12213 -4.53378,0 -8.21593,3.6401 -8.21593,8.12213 0,4.51505 3.68215,8.16341 8.21593,8.16341"
+       id="path10"
+       inkscape:connector-curvature="0"
+       style="fill:#2a2d2f" />
+    <path
+       d="m 208.18735,239.28209 v -6.76844 h -76.94086 v 7.61037 h -13.47614 v -6.54558 h 1.92875 l -2.05398,-18.09321 1.07708,-13.18196 h 6.74642 v -10.31775 h 11.28855 v 9.60789 l 23.97149,-0.066 c 0,-2.64135 2.15418,-4.67188 4.82603,-4.67188 2.67185,0 4.85942,2.03053 4.85942,4.67188 l 9.5936,0.066 v -1.77465 c 0,-2.7404 2.21263,-4.93602 4.98467,-4.93602 2.73865,0 4.99301,2.19562 4.99301,4.93602 v 1.77465 h 7.63147 v -5.93477 h 33.4315 v 5.93477 h -2.77205 v 30.07831 h 2.77205 v 7.61037 h -22.86101"
+       id="path12"
+       inkscape:connector-curvature="0"
+       style="fill:#2a2d2f" />
+    <path
+       d="m 131.24649,176.37682 c -12.52429,8.57612 8.28273,17.82908 8.28273,5.61286 h 0.1336 c 4.55883,1.6756 7.07204,-2.38547 7.07204,-2.38547 0,-0.13206 2.77204,5.48079 9.26797,5.48079 7.68991,0 9.03419,-7.86625 9.03419,-7.86625 11.2802,0.47874 16.69905,-14.60994 16.69905,-14.60994 33.91577,21.86538 35.71091,-36.50008 6.26213,-25.21658 l -0.35902,-0.5778 c -3.26467,-8.93104 -20.58158,-8.67516 -20.94061,0.84193 v -0.13207 c -33.17266,-1.1886 -23.55401,26.76013 -23.55401,26.76013 -6.74642,-0.96575 -11.89807,1.90672 -11.89807,11.99335 v 0.0991"
+       id="path14"
+       inkscape:connector-curvature="0"
+       style="fill:#2a2d2f" />
+  </g>
+</svg>

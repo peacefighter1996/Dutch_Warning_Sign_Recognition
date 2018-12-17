@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Nederlands_verkeersbord_J37"
+   width="216"
+   height="185"
+   viewBox="0 0 216 185"
+   version="1.1"
+   sodipodi:docname="Nederlands_verkeersbord_J37.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1274"
+     inkscape:window-height="634"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="299.14596"
+     inkscape:cy="143.43686"
+     inkscape:window-x="260"
+     inkscape:window-y="260"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Nederlands_verkeersbord_J37" />
+  <path
+     id="rode_driehoek"
+     d="m 272.17841,226.03122 c 0,0 -16.8149,0 0,0 14.90353,0 7.22341,-16.16969 7.22341,-16.16969 L 118.27483,-65.874288 c 0,0 3.47709,6.12167 0,0 -6.26834,-10.95708 -14.44644,-10.46387 -20.216796,-0.49322 L -63.027853,209.86153 c 0,0 -7.720238,16.16969 7.206264,16.16969 16.83202,0 0,0 0,0 H 272.17841"
+     inkscape:connector-curvature="0"
+     style="fill:#c1121c" />
+  <path
+     id="witte_driehoek"
+     d="M 107.688,-0.25743778 -0.04597066,185.60699 H 216.87487 L 107.688,-0.25743778"
+     inkscape:connector-curvature="0"
+     style="fill:#f7fbf5" />
+  <path
+     id="zwart_symbool"
+     style="fill:#2a2d2f;stroke:#2a2d2f;stroke-width:1.22561038"
+     d="m 108.18503,141.82697 c 6.30551,0 11.46538,-5.25129 11.46538,-11.67274 V 56.897402 c 0,-6.42146 -5.15987,-11.67274 -11.46538,-11.67274 -6.34369,0 -11.465396,5.25128 -11.465396,11.67274 v 73.256828 c 0,6.42145 5.121706,11.67274 11.465396,11.67274 z m 0,32.0686 c 6.34366,0 11.5417,-5.09655 11.5417,-11.37295 0,-6.30539 -5.19804,-11.40196 -11.5417,-11.40196 -6.38184,0 -11.541706,5.09657 -11.541706,11.40196 0,6.2764 5.159866,11.37295 11.541706,11.37295"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="fill:none"
+     id="rect19"
+     width="350.00693"
+     height="299.97726"
+     x="0"
+     y="-201.99077"
+     ry="0" />
+</svg>
